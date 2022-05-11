@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stacee-portfolio/static/css/main.6601166e.css",
+    "main.js": "/stacee-portfolio/static/js/main.37a24b59.js",
+    "static/media/bb.png": "/stacee-portfolio/static/media/bb.a677385dfdd60fc69140.png",
+    "static/media/work2.png": "/stacee-portfolio/static/media/work2.a1fefc1440932fd01cdc.png",
+    "static/media/work4.png": "/stacee-portfolio/static/media/work4.bde7ff42b0d9a1a8aed3.png",
+    "static/media/stawillres.png": "/stacee-portfolio/static/media/stawillres.f14968a986e0056c25eb.png",
+    "static/media/react.png": "/stacee-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/work1.png": "/stacee-portfolio/static/media/work1.98197817634dd431eefc.png",
+    "static/media/SW.png": "/stacee-portfolio/static/media/SW.5d02b881876d274f359a.png",
+    "static/media/html.png": "/stacee-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/stacee-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/stacee-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/stacee-portfolio/index.html",
+    "main.6601166e.css.map": "/stacee-portfolio/static/css/main.6601166e.css.map",
+    "main.37a24b59.js.map": "/stacee-portfolio/static/js/main.37a24b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6601166e.css",
+    "static/js/main.37a24b59.js"
+  ]
+}
