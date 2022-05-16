@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import Work from "./components/Work";
 import Resume from "./components/Resume"
 
+
 function App() {
   return (
     <div>
@@ -16,10 +17,10 @@ function App() {
        <Work />
        <Contact />
        < Resume />
-  
+       
       
-    </div>
+  </div>
   );
 }
 
-export default App;
+export default App
